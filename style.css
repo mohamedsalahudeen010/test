@@ -1,0 +1,38 @@
+
+form{
+    margin: 50px
+    
+
+}
+label{
+    margin-left: 10px;
+    position: absolute;
+}
+input{
+    margin-left: 100px;
+    position: absolute;
+}
+#title{
+    text-align: center;
+}
+p{
+    text-align: center; 
+}
+#submit{
+    margin-left: 100px;
+    width: 100px;
+    border: 1px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+#male{
+    margin-left: 115px;
+}
+#female{
+    margin-left: 100px;
+}
+#other{
+    margin-left: 104px;
+}
